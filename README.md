@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Project Title 🚀
+# CallNest
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
